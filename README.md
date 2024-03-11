@@ -15,11 +15,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sidhuhirpara/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="tryhackme logo"  />
 </div>
 
 ###
@@ -54,6 +54,10 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="50" alt="unrealengine logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="17" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo"  />
+  <img width="17" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
 </div>
 
 ###
@@ -69,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhuhirpara&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhuhirpara&radius=16&theme=gotham&area=true&order=5&custom_title=Siddharth's%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -85,6 +89,8 @@
 <img src="https://raw.githubusercontent.com/sidhuhirpara/sidhuhirpara/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sidhuhirpara/count.svg?"  />
